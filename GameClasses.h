@@ -1,3 +1,11 @@
+#include <string>
+#include <iostream>
+#include <vector>
+#include "randgen.h"
+#include <random>
+using namespace std;
+
+
 class Revolver {
 public:
 	RandGen Rand;
